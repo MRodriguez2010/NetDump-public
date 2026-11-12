@@ -1,5 +1,7 @@
 # NetDump
 
+**Employee Sentiment Analysis project family:** [Project guide](https://github.com/MRodriguez2010/Revelio/blob/main/docs/employee-sentiment-analysis-projects.md) · [Revelio interactive demo](https://github.com/MRodriguez2010/Revelio)
+
 NetDump summarizes network activity by method, HTTP status and media family. This public edition replaces provider-specific capture targets and settings with a generic Chrome DevTools listener and a small fictional HAR file. Routes, headers, query strings, cookies and response bodies are excluded from the output.
 
 Run the offline example with Python 3.10 or newer.
